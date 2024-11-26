@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.game-container {
+    text-align: center;
+}
+
+.word-display {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+#wordInput {
+    font-size: 1.5em;
+    padding: 10px;
+    width: 300px;
+    text-align: center;
+}
+
+.score-board {
+    margin-top: 20px;
+    font-size: 1.2em;
+}
